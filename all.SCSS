@@ -1,7 +1,7 @@
 $font-s:1rem;
-/* // 20px */
+// 20px
 $font-s:1.25rem;
-/* // 24px */
+// 24px
 $font-m:1.5rem;
 $font-h2:4rem;
 
@@ -222,7 +222,7 @@ h1{
 
 .work-list-item:nth-child(3){
     margin-bottom: 9rem;
-  /* // 沒有用work-list這個div包起來的話上面那行會無效，為什麼呢? */
+  // 沒有用work-list這個div包起來的話上面那行會無效，為什麼呢?
   }
 
 .footer{
@@ -247,4 +247,6 @@ h1{
   font-size: $font-m;
   line-height: 33px;
 }
+
+
 
